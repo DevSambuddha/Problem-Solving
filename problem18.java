@@ -1,4 +1,4 @@
-//Print the pattern for n=4
+//Print the pattern for n=5
 /* 
 * 
 * * 
