@@ -18,7 +18,7 @@
                 int left = j;
                 int right = (2*n-2)-j;
                 int down = (2*n-2)-i; 
-                System.out.print(n - min(min(top,down), min(left,right)));
+                System.out.print(n - min(min(top,down), min(left,right)));//revise here
             }System.out.println();
         }
         }
