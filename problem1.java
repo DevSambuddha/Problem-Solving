@@ -1,8 +1,9 @@
-//Print the pattern
-//* * * * 
-//* * * * 
-//* * * * 
-//* * * * 
+/*Print the pattern
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+*/
 
 import java.util.*;
 
